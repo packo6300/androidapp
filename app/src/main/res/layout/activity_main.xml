@@ -2,7 +2,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@mipmap/back_login"
+    android:background="@mipmap/ic_bg"
     android:padding="40dp">
 
     <EditText
@@ -11,7 +11,7 @@
         android:inputType="textEmailAddress"
         android:ems="10"
         android:id="@+id/username"
-        android:drawableLeft="@mipmap/account"
+        android:drawableLeft="@mipmap/ic_user"
         android:hint="Username"
         android:layout_marginTop="170dp"
         android:textColor="#FFF"
@@ -39,7 +39,6 @@
         android:layout_marginTop="30dp"
         android:text="SignIn"
         android:id="@+id/button"
-        android:background="@drawable/selector_xml_btn_yellow"
         android:layout_gravity="center_horizontal"
         android:onClick="checkLogin"/>
 
