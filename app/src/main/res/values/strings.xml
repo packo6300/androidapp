@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Checktime</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="login_entrar">Entrar</string>
+    <string name="login_entrar_user">Email ó Usuario</string>
+    <string name="login_entrar_password">Contraseña</string>
+
+</resources>
